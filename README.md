@@ -4,6 +4,10 @@
 
 Welcome to the Modern Bank App UI! This project showcases a sleek and contemporary user interface for a banking application, designed using React, Tailwind CSS, and JavaScript. The goal of this app is to provide a visually appealing and intuitive experience for users, demonstrating how modern design principles can enhance the usability and aesthetics of a banking application.
 
+## Link to view the web app
+
+https://modern-bank-app-bice-eight.vercel.app/
+
 ## Features
 
 **Responsive Design:** Optimized for various screen sizes, ensuring a seamless experience on both desktop and mobile devices.
